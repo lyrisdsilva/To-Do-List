@@ -1,20 +1,14 @@
 [
   {
+    "text": "make tea",
+    "completed": false,
+    "priority": "Medium",
+    "created": "2026-01-30T14:21:35.228860"
+  },
+  {
     "text": "Pay Rent",
     "completed": false,
     "priority": "High",
-    "created": "2026-01-29T14:45:59.158971"
-  },
-  {
-    "text": "Pay FEES",
-    "completed": false,
-    "priority": "Medium",
-    "created": "2026-01-29T14:48:30.508209"
-  },
-  {
-    "text": "Wake Up Early",
-    "completed": false,
-    "priority": "Medium",
-    "created": "2026-01-29T14:48:42.374789"
+    "created": "2026-01-30T16:10:06.941729"
   }
 ]
